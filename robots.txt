@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /*.js
+Allow: /*.css
+
+Host: https://www.twinsann.com/
+Sitemap: https://www.twinsann.com/sitemap.xml
